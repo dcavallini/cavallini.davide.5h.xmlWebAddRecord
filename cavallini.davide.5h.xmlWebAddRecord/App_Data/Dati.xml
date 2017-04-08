@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <persone>
+    <persona Nome="Davide" Cognome="Cavallini" Stato="Iscritto"></persona>
+    <persona Nome="Diego" Cognome="Cavallini" Stato="NonIscritto"></persona>
+    <persona Nome="Carlo" Cognome="Cavallini" Stato="Iscritto"></persona>
+  </persone>
+</root>
